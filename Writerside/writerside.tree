@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="writerside" name="Deploy Writerside"
-                  start-page="">
+                  start-page="Index-Topic.md">
 
     <toc-element topic="Index-Topic.md"/>
 </instance-profile>
